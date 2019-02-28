@@ -1,3 +1,3 @@
 function simpleFunc () {
-    console.log("hello space")
+    console.log("hello space!")
 }
